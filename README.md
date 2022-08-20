@@ -15,5 +15,4 @@ It is intended for absolute beginners who have just begun coding in web developm
 
 ## Screenshots
 
-## job application form
 ![JobApplicationForm](https://user-images.githubusercontent.com/104721504/185745105-88058d7f-822c-404b-9b6b-b7239b7954a2.PNG)
